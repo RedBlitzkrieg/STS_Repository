@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Apr 04 10:53:48 YEKT 2014
+org.eclipse.jst.jee.server\:TestWebDynamicProject=C\:\\Program Files\\SpringToolSuite\\vfabric-tc-server-developer-2.9.3.RELEASE\\TestServer\\wtpwebapps\\TestWebDynamicProject
+org.eclipse.jst.jee.server\:ContactManager=C\:\\Program Files\\SpringToolSuite\\vfabric-tc-server-developer-2.9.3.RELEASE\\TestServer\\wtpwebapps\\ContactManager

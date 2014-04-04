@@ -1,0 +1,5 @@
+package com.redblitzkrieg.contactmanager.dao;
+
+public class ContactDAOImpl {
+
+}

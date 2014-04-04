@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+C:\Users\Dies_Irae\Documents\workspace-sts-3.4.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2632545599.index
+\ContactManager\src\main\java
+C:\Users\Dies_Irae\Documents\workspace-sts-3.4.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2182016119.index
+\TestSpringMVCProject\src\main\java

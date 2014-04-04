@@ -1,0 +1,5 @@
+package com.redblitzkrieg.contactmanager.domain;
+
+public class Contact {
+
+}

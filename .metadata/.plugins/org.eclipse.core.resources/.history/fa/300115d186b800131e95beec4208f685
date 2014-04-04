@@ -1,0 +1,5 @@
+package com.redblitzkrieg.contactmanager.service;
+
+public interface ContactService {
+
+}

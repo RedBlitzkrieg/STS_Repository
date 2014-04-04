@@ -1,0 +1,5 @@
+package com.redblitzkrieg.contactmanager.web;
+
+public class ContactController {
+
+}
